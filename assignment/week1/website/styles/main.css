@@ -78,13 +78,19 @@ footer p{
     padding: 20px;
 }
 
+/* home page */
+
 #first-column{
     background-color: lavender;
     width: 467px;
     height: 500px;
     display: inline-block;
+    vertical-align: top;
     
     
+}
+#first-column form{
+    padding: 10px;
 }
 #second-column{
     background-color:lawngreen;
@@ -93,5 +99,31 @@ footer p{
     display: inline-block;
     
 }
+
+/* services page */
+#services-page table{
+    border: 1px solid orangered;
+    width: 100%;
+
+}
+#services-page table td, #services-page table th{
+    border: 1px dashed orangered;
+   
+
+}
+#services-page table thead{
+    background-color: royalblue;
+}
+
+#services-page table thead th{
+   padding: 6px;
+}
+
+#services-page table tbody{
+    background-color: powderblue;
+}
+#services-page table tbody td{
+    padding: 3px;
+}    
 
 
