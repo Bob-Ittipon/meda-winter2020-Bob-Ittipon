@@ -1,0 +1,39 @@
+Why are you taking the back-end class? What are your current expectations of the back-end class?
+
+-My expectation on the backend class is I will be able to create a web-service to connect and put and get data from Database(Sqlserver,MogoDb,etc.) and return Json (Array,Object) to the frontend. additional of setup web to the server and deploy web on webhosting. 
+
+
+Before front-end class, did you have coding experience? What computer language(s) and how long ago?
+
+-I did, mainly Java,C#,SQL,xml in my career to do Android Application
+
+-I believe the last time of my coding(before the class) was oct 2019(with kotlin)
+
+
+What front-end topics did you find difficult or what did you struggle with?
+- Nothing for me
+
+
+Did the front-end class meet your expectations? Explain how it did or did not.
+
+Yes it did, before I take the class, Honestly, I almost forget about HTML,Javascript. because I have never use it since 2013. and this class remind me on how to do front-end web-development again.
+
+
+Are you switching careers or looking to add skills to your resume? Why?
+-I will add the skill that I learned from the class which I can do, that will make my resume more value.
+
+What books or other resources are you depending on outside of class to enhance your learning?
+
+
+Other than HTML, CSS, and JavaScript, what other computer languages are you currently learning or are interested in learning? Why?
+
+-the learning languages : Java, kotlin, php,sql to keep my current skill at the usual level 
+-interested in learning: objective c to move into IOS development. 
+
+Where do you see the industry going in the future?
+-Website& application still important UX/UI will be more valuable expectualy when the car has auto-pilot in-commond. the industry will be larger and larger.
+
+
+After taking the back-end class do you plan or have already planned on continuing your learning in tech? What specifically do you plan on focusing?
+
+-I will keep learning for sure, I will focusing on full-stack development(web front-end,web-services, back-end, Android app, IOS app)
