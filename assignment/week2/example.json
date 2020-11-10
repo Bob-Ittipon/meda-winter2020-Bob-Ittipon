@@ -1,0 +1,4 @@
+{
+    "name": "Bob",
+    "objects":[{"location": "address"},{"phone":"310-xxx-xxxx"}]
+}
