@@ -4,7 +4,9 @@ const fileExists = fs.existsSync("resultreturn.json");
 
 let contents;
 let arguments = process.argv.slice(2);
-let jsonObjectConverted = JSON.stringify(arguments);
+const myObject = {"history":arguments}
+
+let jsonObjectConverted = JSON.stringify(myObject);
 
 
 
