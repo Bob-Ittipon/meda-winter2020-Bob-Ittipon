@@ -1,0 +1,203 @@
+
+
+#container{
+    width: auto;
+    height: max-content;
+    min-width: 1400px;
+
+}
+#container header nav{
+    width: inherit;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+ 
+    
+    
+}
+#container header nav ul{
+    width: fit-content;
+    text-align: center;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    padding: 10px;
+    margin-left: auto;
+    font-size: 30px;
+    
+    
+}
+#container header h1{
+    width: fit-content;
+    text-align: center;
+    margin-block-end: 0;
+    margin-block-start: 0;
+    padding: 10px;
+    margin-right: auto;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    font-size: 50px;
+    color: black;
+    display: inline-block;
+    line-height: 50px;
+}
+
+#container header nav ul li{
+    border: transparent red 1px;
+   display: inline;
+   padding: 5px;
+   border-radius: 5px;
+}
+#container header nav ul li a{
+    display: inline-block;
+    line-height: 32px;
+    color: black;
+}
+header{
+    width: inherit;
+    height: 100px;
+    background-color: Orange;
+    position: relative;
+    
+}
+
+footer{
+    width: inherit;
+    height: 100px;
+    background-color: Orange;
+   
+}
+footer p{
+     margin-block-end: 0;
+    margin-block-start: 0;
+}
+main{
+    width: inherit;
+    height: max-content;
+    min-height: 1000px;
+    background-color: #000000;
+    background-image: url("../images/samet_nangchee.jpg");
+   
+  
+}
+#image{
+    padding: 10px;
+    margin: 50px;
+   
+    display: inline-block;
+    
+    
+    
+}
+
+#box {
+    position: absolute;
+
+  
+    
+ 
+    background-color:  peachpuff ;
+    
+    border-radius: 25px;
+    width: 70%;
+    height: max-content;
+    padding: 10px;
+    margin: 50px;
+    margin-left: auto;
+   display: inline-block;
+   opacity: 0.5;
+   font-size: 20px;
+  
+}
+
+#box p{
+    text-indent: 50px;
+}
+
+#resume {
+    position: absolute;
+
+  
+    
+ 
+    background-color:  peachpuff ;
+    
+    border-radius: 25px;
+    width: fit-content;
+    height: max-content;
+    padding: 10px;
+    margin: 50px;
+    margin-right: auto;
+   display: inline-block;
+   opacity: 0.5;
+   font-size: 20px;
+  
+}
+
+#contactbox {
+    position: absolute;
+    background-color:  peachpuff ; 
+    border-radius: 25px;
+    width: fit-content;
+    height: max-content;
+    padding: 10px;
+    margin: 50px;
+    margin-right: auto;
+  
+   opacity: 0.5;
+   font-size: 20px;
+  
+}
+#contactbox h1 {
+    font-size: 40px;
+  
+}
+
+#contactemailbox {
+    background-color:  peachpuff ; 
+    border-radius: 25px;
+    width: 40%;
+    height: max-content;
+    padding: 10px;
+    margin: 50px;
+    margin-left: auto;
+     
+   opacity: 0.5;
+   font-size: 20px;
+   position: fixed;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+#portImages{
+    padding: 10px;
+    margin: 50px;
+   
+    display: inline-block;
+    opacity: 0.5;
+  
+   
+}
+
+#portDetails{
+    position: absolute;
+
+  
+    margin-block-end: 0;
+    margin-block-start: 0;
+ 
+    background-color:  peachpuff ;
+    
+    border-radius: 25px;
+    width: 800px;
+    height: max-content;
+    padding: 10px;
+    margin: 50px;
+    margin-left: auto;
+   display: inline-block;
+   opacity: 0.5;
+   font-size: 20px;
+}
